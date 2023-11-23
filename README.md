@@ -14,6 +14,6 @@ Frontend: React, Angular, Vue.js
 
 
 🤝 Let's Connect!
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email at [your.email@example.com] or connect with me on LinkedIn.
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email at [saifsm7@yahoo.com] or connect with me on LinkedIn.
 
 Let's build something amazing together! 🚀
