@@ -4,7 +4,7 @@ About Me
 Name: Saif ul Islam
 Occupation: Web Developer
 Location: [shangla Swat, pakistan]
-Email: your.saifsm7@yahoo.com
+Email: your. saifsm7@yahoo.com
 Portfolio: [saiftek.000webhostapp.com]
 🔧 Skills
 I specialize in a variety of web development technologies and tools, including:
